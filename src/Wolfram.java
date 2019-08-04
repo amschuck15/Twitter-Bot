@@ -9,7 +9,7 @@ import com.google.gson.JsonParser;
 
 public class Wolfram {
 
-	private static final String appID = "U54U9R-G9HHG79XX6";
+	private static final String appID = "********";
 	private static final String urlFragment = "http://api.wolframalpha.com/v1/conversation.jsp?appid=";
 	private String question;
 
